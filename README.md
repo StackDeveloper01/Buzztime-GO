@@ -4,6 +4,7 @@ TRIVIA APP
 QUIZ APP
 
 iOS:- https://apps.apple.com/us/app/buzztime-go/id1539592841
+
 Android:-https://play.google.com/store/apps/details?id=com.buzztime.go
 
 “An exclusive entertainment app connecting trivia lovers all over the world.”
